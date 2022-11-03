@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "examplepackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dtweston/ExamplePackage.git",
+      "state" : {
+        "revision" : "032c94c33866a753524aa4853d6685cb8ad9fd96",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
